@@ -1,0 +1,27 @@
+[
+    {
+      "id": "emotion-ai-01",
+      "title": "EEG-Based Emotion Recognition",
+      "category": "Emotion AI",
+      "skills": ["Python", "ML", "EEG", "Emotion"],
+      "preview": "Music system that reacts to your brainwaves.",
+      "techStack": ["Python", "scikit-learn", "EEG headset"],
+      "emotionalChallenge": "Turn emotional chaos into harmony.",
+      "architecture": "Signal acquisition → Preprocessing → Classifier → Music recommendation",
+      "nextSteps": "Add real-time feedback loop and cybersecurity layer.",
+      "position": { "x": 180, "y": 120 }
+    },
+    {
+      "id": "backend-01",
+      "title": "EPL POS System",
+      "category": "Backend Infra",
+      "skills": ["Python", "Django", "API", "Security"],
+      "preview": "API-first system for check-ins and inventory.",
+      "techStack": ["Django", "PostgreSQL", "HTTPS"],
+      "emotionalChallenge": "Balancing usability and security for real users.",
+      "architecture": "User check-in → Auth middleware → Inventory handler",
+      "nextSteps": "Refactor with async endpoints and monitoring tools.",
+      "position": { "x": 400, "y": 250 }
+    }
+  ]
+  
