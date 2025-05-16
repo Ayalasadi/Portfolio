@@ -9,7 +9,7 @@ This portfolio evolves. Each section exists to surface interaction, not just inf
 - `Explore the Network` – Visual map of domains: Backend, Emotion AI, Cybersecurity, Mentorship, Social Impact.
 - `Ask Me Anything` – Terminal-style interface. Ask technical or personal questions.
 - `The Lab` – Ongoing experiments. Walkthroughs with architecture and iterations.
-- `About Freshta` – Dual view: Builder | Human.
+- `About Aya` – Dual view: Builder | Human.
 - `The Vault` 🔐 – A hidden project, unlocked through exploration.
 
 ## Status

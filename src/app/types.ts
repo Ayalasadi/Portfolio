@@ -8,4 +8,5 @@ export type Project = {
     emotionalChallenge: string;
     architecture: string;
     nextSteps: string;
+    skills?: string[];
   };
